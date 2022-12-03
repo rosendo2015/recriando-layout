@@ -1,6 +1,6 @@
 # Desafio Intermediário Extra - Recriando layout
 
-![preview](./github/preview.png)
+![preview](./.github/preview.png)
 
 > Trilha Explorer Projeto feito para cumprir Desafio intermediário - Recriando layout - Extra construído no curso Explorer da Rocketseat :rocket:.
 
